@@ -80,7 +80,7 @@
   <Mercenary.labelShort>Sold</Mercenary.labelShort>
 
   <MercenaryRange.label>Schützen</MercenaryRange.label>
-  <MercenaryRange.labelShort>Schütze</MercenaryRange.labelShort>
+  <MercenaryRange.labelShort>Sold</MercenaryRange.labelShort>
 
   <Spiked.label>Stachel</Spiked.label>
   <Spiked.labelShort>Stach</Spiked.labelShort>
@@ -130,7 +130,7 @@
   <Mining.labelShort>Grab</Mining.labelShort>
 
   <Establishing.label>Establishment</Establishing.label>
-  <Establishing.labelShort></Establishing.labelShort>
+  <Establishing.labelShort>Werk</Establishing.labelShort>
   <!-- replacements: Farmer -->
   <Farming.label>Bauer</Farming.label>
   <Farming.labelShort>Farm</Farming.labelShort>
@@ -206,7 +206,7 @@
   <FelRange.labelShort>Pakt</FelRange.labelShort>
   <!-- replacements: Kommunikations, Vermittler -->
   <Communicating.label>Korrespondenz</Communicating.label>
-  <Communicating.labelShort>Kommun</Communicating.labelShort>
+  <Communicating.labelShort>Kommu</Communicating.labelShort>
 
   <Absorbing.label>Absorbierer</Absorbing.label>
   <Absorbing.labelShort>Absorb</Absorbing.labelShort>
@@ -228,10 +228,10 @@
   <Destructive.labelShort>Zer</Destructive.labelShort>
   <!-- replacements: Amplifikator, Verstärker, Spezial, Anlegen, Anvisieren -->
   <Amplified.label>Verstärker</Amplified.label>
-  <Amplified.labelShort>Stärke</Amplified.labelShort>
+  <Amplified.labelShort>Stark</Amplified.labelShort>
   <!-- replacements: Aufzeichner, Schreiber, Schriftgelehrter, Rekorder -->
   <Scribing.label>Sekretär</Scribing.label>
-  <Scribing.labelShort>Rekord</Scribing.labelShort>
+  <Scribing.labelShort>Schr</Scribing.labelShort>
   <!-- replacements: Unvergänglich, Zeitlos, Ewiger Schutz, Absicherung, Immerwährend -->
   <Everprotecting.label>Zweite Haut</Everprotecting.label>
   <Everprotecting.labelShort>2Haut</Everprotecting.labelShort>

@@ -46,7 +46,7 @@
   <Aspd0.labelShort>Lauf0</Aspd0.labelShort>
   <!-- Brummend, Surrend, Wummernd -->
   <psy0.label>Brummer</psy0.label>
-  <psy0.labelShort>Sensibel0</psy0.labelShort>
+  <psy0.labelShort>Sensi0</psy0.labelShort>
 
   <amec0.label>Basis-MechTech</amec0.label>
   <amec0.labelShort>Mech0</amec0.labelShort>
@@ -64,19 +64,19 @@
   <dam0.labelShort>Schaden0</dam0.labelShort>
 
   <en0.label>Basis-Erweiterung</en0.label>
-  <en0.labelShort>Nahkampf0</en0.labelShort>
+  <en0.labelShort>Nah0</en0.labelShort>
   <!-- suboptimal adjective -->
   <cut0.label>Geriffelt</cut0.label>
   <cut0.labelShort>Werk0</cut0.labelShort>
 
   <mmed0.label>Sanitäter</mmed0.label>
-  <mmed0.labelShort>Medizin0</mmed0.labelShort>
+  <mmed0.labelShort>Medi0</mmed0.labelShort>
   
   <mwrk0.label>Basis-Zusatz</mwrk0.label>
   <mwrk0.labelShort>Multi0</mwrk0.labelShort>
 
   <acc0.label>Basis-Handauflage</acc0.label>
-  <acc0.labelShort>Präzise0</acc0.labelShort>
+  <acc0.labelShort>Präzis0</acc0.labelShort>
   
   <!-- different allowance parameter, same label
   <Mspd0.label>Geölt</Mspd0.label>
@@ -132,7 +132,7 @@
   <Aspd1.labelShort>Lauf1</Aspd1.labelShort>
   
   <psy1.label>Schmerzstiller</psy1.label>
-  <psy1.labelShort>Sensibel1</psy1.labelShort>
+  <psy1.labelShort>Sensi1</psy1.labelShort>
 
   <amec1.label>MechTech Marodeur</amec1.label>
   <amec1.labelShort>Mech1</amec1.labelShort>
@@ -150,19 +150,19 @@
   <dam1.labelShort>Schaden1</dam1.labelShort>
 
   <en1.label>Dampfmaschine</en1.label>
-  <en1.labelShort>Nahkampf1</en1.labelShort>
+  <en1.labelShort>Nah1</en1.labelShort>
   <!-- suboptimal adjective -->
   <cut1.label>Gezackt</cut1.label>
   <cut1.labelShort>Werk1</cut1.labelShort>
 
   <mmed1.label>Doktoren</mmed1.label>
-  <mmed1.labelShort>Medizin1</mmed1.labelShort>
+  <mmed1.labelShort>Medi1</mmed1.labelShort>
   
   <mwrk1.label>Standard-Multifunktionswerkzeug</mwrk1.label>
   <mwrk1.labelShort>Multi1</mwrk1.labelShort>
   
   <acc1.label>Optische Hilfsmittel</acc1.label>
-  <acc1.labelShort>Präzise1</acc1.labelShort>
+  <acc1.labelShort>Präzis1</acc1.labelShort>
   
   <!-- different allowance parameter, same label
   <Mspd1.label>Gewichtslos</Mspd1.label>
@@ -221,7 +221,7 @@
   <Aspd2.labelShort>Lauf2</Aspd2.labelShort>
 
   <psy2.label>Schmerzstopper</psy2.label>
-  <psy2.labelShort>Sensibel2</psy2.labelShort>
+  <psy2.labelShort>Sensi2</psy2.labelShort>
   
   <amec2.label>MechTech Elite</amec2.label>
   <amec2.labelShort>Mech2</amec2.labelShort>
@@ -239,19 +239,19 @@
   <dam2.labelShort>Schaden2</dam2.labelShort>
   
   <en2.label>MaschinenWelten-Erweiterung</en2.label>
-  <en2.labelShort>Nahkampf2</en2.labelShort>
+  <en2.labelShort>Nah2</en2.labelShort>
   
   <cut2.label>MaschinenWelten-Sägeblatt</cut2.label>
   <cut2.labelShort>Werk2</cut2.labelShort>
 
   <mmed2.label>Arzt</mmed2.label>
-  <mmed2.labelShort>Medizin2</mmed2.labelShort>
+  <mmed2.labelShort>Medi2</mmed2.labelShort>
   
   <mwrk2.label>MaschinenWelten-Multitool</mwrk2.label>
   <mwrk2.labelShort>Multi2</mwrk2.labelShort>
 
   <acc2.label>Zielfernrohr</acc2.label>
-  <acc2.labelShort>Präzise2</acc2.labelShort>
+  <acc2.labelShort>Präzis2</acc2.labelShort>
   
   <!-- different allowance parameter, same label
   <Mspd2.label>Wirbel</Mspd2.label>
@@ -307,7 +307,7 @@
   <Aspd3.labelShort>Lauf3</Aspd3.labelShort>
   
   <psy3.label>Stimmungsaufheller</psy3.label>
-  <psy3.labelShort>Sensibel3</psy3.labelShort>
+  <psy3.labelShort>Sensi3</psy3.labelShort>
 
   <axen0.label>Basis-XenoTech</axen0.label>
   <axen0.labelShort>Alien0</axen0.labelShort>
@@ -325,19 +325,19 @@
   <dam3.labelShort>Schaden3</dam3.labelShort>
 
   <en3.label>Dynamik</en3.label>
-  <en3.labelShort>Nahkampf3</en3.labelShort>
+  <en3.labelShort>Nah3</en3.labelShort>
   
   <cut3.label>Schlitzer</cut3.label>
   <cut3.labelShort>Werk3</cut3.labelShort>
 
   <mmed3.label>Chirurgie</mmed3.label>
-  <mmed3.labelShort>Medizin3</mmed3.labelShort>
+  <mmed3.labelShort>Medi3</mmed3.labelShort>
   <!-- suboptimal -->
   <mwrk3.label>Programm. StadtWelten</mwrk3.label>
   <mwrk3.labelShort>Multi3</mwrk3.labelShort>
   
   <acc3.label>StadtWelten-Laservisier</acc3.label>
-  <acc3.labelShort>Präzise3</acc3.labelShort>
+  <acc3.labelShort>Präzis3</acc3.labelShort>
   
   <!-- different allowance parameter, same label
   <Mspd3.label>Turbo</Mspd3.label>
@@ -393,7 +393,7 @@
   <Aspd4.labelShort>Lauf4</Aspd4.labelShort>
   
   <psy4.label>OrbitalWelten-Abschirmung</psy4.label>
-  <psy4.labelShort>Sensibel4</psy4.labelShort>
+  <psy4.labelShort>Sensi4</psy4.labelShort>
 
   <axen1.label>XenoTech Hybrid</axen1.label>
   <axen1.labelShort>Alien1</axen1.labelShort>
@@ -411,19 +411,19 @@
   <dam4.labelShort>Schaden4</dam4.labelShort>
 
   <en4.label>Kollision</en4.label>
-  <en4.labelShort>Nahkampf4</en4.labelShort>
+  <en4.labelShort>Nah4</en4.labelShort>
 
   <cut4.label>Verzahnt</cut4.label>
   <cut4.labelShort>Werk4</cut4.labelShort>
 
   <mmed4.label>ObritalWelten-Medizintechnik</mmed4.label>
-  <mmed4.labelShort>Medizin4</mmed4.labelShort>
+  <mmed4.labelShort>Medi4</mmed4.labelShort>
   <!-- suboptimal -->
   <mwrk4.label>Programm. ObritalWelten</mwrk4.label>
   <mwrk4.labelShort>Multi4</mwrk4.labelShort>
 
   <acc4.label>ObritalWelten-Zielerfassung</acc4.label>
-  <acc4.labelShort>Präzise4</acc4.labelShort>
+  <acc4.labelShort>Präzis4</acc4.labelShort>
 
   <!-- different allowance parameter, same label
   <Mspd4.label>Schwerelos</Mspd4.label>
@@ -482,7 +482,7 @@
   <bal5.labelShort>Treffer5</bal5.labelShort>
 
   <psy5.label>Mentale Zuflucht</psy5.label>
-  <psy5.labelShort>Sensibel5</psy5.labelShort>
+  <psy5.labelShort>Sensi5</psy5.labelShort>
 
   <axen2.label>XenoTech Elite</axen2.label>
   <axen2.labelShort>Alien2</axen2.labelShort>
@@ -497,19 +497,19 @@
   <dam5.labelShort>Schaden5</dam5.labelShort>
 
   <en5.label>GlitzerWelten-Energieschub</en5.label>
-  <en5.labelShort>Nahkampf5</en5.labelShort>
+  <en5.labelShort>Nah5</en5.labelShort>
   
   <cut5.label>Schnitter</cut5.label>
   <cut5.labelShort>Werk5</cut5.labelShort>
 
   <mmed5.label>GlitzerWelten-Wundenschließer</mmed5.label>
-  <mmed5.labelShort>Medizin5</mmed5.labelShort>
+  <mmed5.labelShort>Medi5</mmed5.labelShort>
   <!-- OK -->
   <mwrk5.label>GlitzerWelten-Allzweckwerkzeug</mwrk5.label>
   <mwrk5.labelShort>Multi5</mwrk5.labelShort>
   
   <acc5.label>GlitzerWelten-Reflektorsicht</acc5.label>
-  <acc5.labelShort>Präzise5</acc5.labelShort>
+  <acc5.labelShort>Präzis5</acc5.labelShort>
   
   <!-- different allowance parameter, same label
   <Mspd5.label>Ultra</Mspd5.label>
@@ -533,7 +533,7 @@
   
   <!-- Are these actually active? didnt see them yet -->
   <rand.labelShort>Randy</rand.labelShort>
-  <cass.labelShort>Cassandra</cass.labelShort>
+  <cass.labelShort>Cassie</cass.labelShort>
   <phoe.labelShort>Phoebe</phoe.labelShort>
 
 </LanguageData>
