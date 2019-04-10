@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿-<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- Would appreciate an example to translate the key MarketValue -->
@@ -30,49 +30,49 @@
   <LightApparel.labelShort>leicht</LightApparel.labelShort>
 
   <Heavy.label>Schwergewicht</Heavy.label>
-  <Heavy.labelShort>Schwer</Heavy.labelShort>
+  <Heavy.labelShort>schw</Heavy.labelShort>
 
   <HeavyRange.label>Schwergewicht</HeavyRange.label>
-  <HeavyRange.labelShort>schwer</HeavyRange.labelShort>
-  <!-- suboptimal but OK -->
+  <HeavyRange.labelShort>schw</HeavyRange.labelShort>
+
   <Small.label>Wind</Small.label>
   <Small.labelShort>flott</Small.labelShort>
 
   <Big.label>Mode</Big.label>
   <Big.labelShort>mode</Big.labelShort>
-  <!-- suboptimal adjective but OK -->
+
   <Long.label>Lang</Long.label>
   <Long.labelShort>lang</Long.labelShort>
 
-  <Thick.label>drall</Thick.label>
+  <Thick.label>Massiv</Thick.label>
   <Thick.labelShort>dick</Thick.labelShort>
-  <!-- suboptimal adjective but OK -->
-  <Tough.label>stark</Tough.label>
+
+  <Tough.label>Belastbarkeits</Tough.label>
   <Tough.labelShort>zäh</Tough.labelShort>
   
   <!-- ######################################## -->
   <!-- #############    Tier 1    ############# -->
   <!-- ######################################## -->
 
-  <!-- suboptimal (replacements: Bestickt, robust, strapazierfähig, stramm, derb) -->
-  <Studded.label>Gestickt</Studded.label>
+  <!-- suboptimal (replacements: gestickt, bestickt, robust, strapazierfähig, stramm, derb) -->
+  <Studded.label>Robustheits</Studded.label>
   <Studded.labelShort>rob</Studded.labelShort>
 
   <Fast.label>Leichtfuß</Fast.label>
   <Fast.labelShort>rasch</Fast.labelShort>
-  <!-- suboptimal but OK -->
+
   <Careful.label>Umsicht</Careful.label>
   <Careful.labelShort>vors</Careful.labelShort>
-  <!-- suboptimal but OK -->
+
   <CarefulRange.label>Sorgfalt</CarefulRange.label>
   <CarefulRange.labelShort>vors</CarefulRange.labelShort>
-  <!-- suboptimal adjective -->
-  <Attractive.label>Attraktiv</Attractive.label>
+
+  <Attractive.label>Attraktivitäts</Attractive.label>
   <Attractive.labelShort>attr</Attractive.labelShort>
-  <!-- suboptimal adjective (replacements: unnachgiebig, fest) -->
+  <!-- suboptimal adjective (replacements: Unnachgiebigkeit, fest) -->
   <Hard.label>Hart</Hard.label>
   <Hard.labelShort>hart</Hard.labelShort>
-  <!-- suboptimal adjective -->
+
   <Soft.label>Weich</Soft.label>
   <Soft.labelShort>weich</Soft.labelShort>
 
@@ -85,7 +85,7 @@
   <Spiked.label>Stachel</Spiked.label>
   <Spiked.labelShort>stach</Spiked.labelShort>
 
-  <Warm.label>Wärme</Warm.label>
+  <Warm.label>Tropen</Warm.label>
   <Warm.labelShort>warm</Warm.labelShort>
 
   <Breezing.label>Meeresbrise</Breezing.label>
@@ -95,20 +95,19 @@
   <!-- #############    Tier 2    ############# -->
   <!-- ######################################## -->
 
-  <!-- suboptimal (replacements: anmutig, bezaubernd) -->
   <Charming.label>Anmut</Charming.label>
   <Charming.labelShort>anmut</Charming.labelShort>
 
   <Siege.label>Belagerungs</Siege.label>
   <Siege.labelShort>klamm</Siege.labelShort>
   <!-- suboptimal adjective (replacements: Genauigkeit, Präzision) -->
-  <Precise.label>Exakt</Precise.label>
+  <Precise.label>Exaktheits</Precise.label>
   <Precise.labelShort>genau</Precise.labelShort>
   <!-- suboptimal adjective -->
   <Clean.label>Rückstandsfrei</Clean.label>
   <Clean.labelShort>sauber</Clean.labelShort>
-  <!-- replacements: Überfall -->
-  <Assaulting.label>Ansturm</Assaulting.label>
+
+  <Assaulting.label>Überfall</Assaulting.label>
   <Assaulting.labelShort>sturm</Assaulting.labelShort>
   
   <AssaultingRange.label>Ansturm</AssaultingRange.label>
@@ -140,14 +139,14 @@
 
   <Metalvein.label>Metallurgen</Metalvein.label>
   <Metalvein.labelShort>meta</Metalvein.labelShort>
-  <!-- replacements: Behutsam -->
+  <!-- replacements: Behutsamkeits -->
   <Taming.label>Sanftmut</Taming.label>
   <Taming.labelShort>sanft</Taming.labelShort>
-  <!-- replacements: Professionell -->
+
   <Professional.label>Profi</Professional.label>
   <Professional.labelShort>pro</Professional.labelShort>
-  <!-- suboptimal adjective -->
-  <Unholy.label>Ruchlos</Unholy.label>
+
+  <Unholy.label>Ruchlosigkeits</Unholy.label>
   <Unholy.labelShort>unheil</Unholy.labelShort>
 
   <UnholyRange.label>Niedertracht</UnholyRange.label>
@@ -155,7 +154,7 @@
 
   <Blocking.label>Abblocker</Blocking.label>
   <Blocking.labelShort>block</Blocking.labelShort>
-  <!-- Abdecker -->
+  <!-- replacements: Abdecker -->
   <Protecting.label>Schild</Protecting.label>
   <Protecting.labelShort>schild</Protecting.labelShort>
   <!-- replacements: Schlenker, Schweif, Abschweifer Schmierfett -->
@@ -189,8 +188,8 @@
 
   <Ancient.label>Ahnen</Ancient.label>
   <Ancient.labelShort>ahnen</Ancient.labelShort>
-  <!-- suboptimal adjective but OK (replacements: Vorfahren) -->
-  <AncientRange.label>Antik</AncientRange.label>
+  <!-- suboptimal adjective but OK (replacements: Antik) -->
+  <AncientRange.label>Vorfahren</AncientRange.label>
   <AncientRange.labelShort>ahnen</AncientRange.labelShort>
 
   <AncientApparel.label>Vorväter</AncientApparel.label>
@@ -210,10 +209,10 @@
 
   <Absorbing.label>Absorbierer</Absorbing.label>
   <Absorbing.labelShort>absorb</Absorbing.labelShort>
-  <!-- replacements: Feuer -->
+
   <Burning.label>Glut</Burning.label>
   <Burning.labelShort>brenn</Burning.labelShort>
-  <!-- replacements: Eis -->
+
   <Freezing.label>Frost</Freezing.label>
   <Freezing.labelShort>eis</Freezing.labelShort>
 
@@ -223,10 +222,10 @@
   <!-- ######################################## -->
   <!-- #############    Tier 4    ############# -->
   <!-- ######################################## -->
-  <!-- replacements: Destruktiv, Vernichter, Auslöscher -->
+  <!-- replacements: Vernichter, Auslöscher -->
   <Destructive.label>Zerstörer</Destructive.label>
   <Destructive.labelShort>destrukt</Destructive.labelShort>
-  <!-- replacements: Amplifikator, Verstärker, Spezial, Anlegen, Anvisieren -->
+  <!-- replacements: Amplifikator, Spezial, Anlegen, Anvisieren -->
   <Amplified.label>Verstärker</Amplified.label>
   <Amplified.labelShort>stark</Amplified.labelShort>
   <!-- replacements: Aufzeichner, Schreiber, Schriftgelehrter, Rekorder -->
@@ -241,10 +240,10 @@
 
   <Gravitational.label>Schwerkraft</Gravitational.label>
   <Gravitational.labelShort>gravi</Gravitational.labelShort>
-  <!-- replacements: Variables, fluktuierend -->
+  <!-- replacements: Variabel, fluktuierend -->
   <Fluctuating.label>Fluktuations</Fluctuating.label>
   <Fluctuating.labelShort>flux</Fluctuating.labelShort>
-  <!-- replacements: Schnee -->
+  
   <Icy.label>Eiszeit</Icy.label>
   <Icy.labelShort>schnee</Icy.labelShort>
 
