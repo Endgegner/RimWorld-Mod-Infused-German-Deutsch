@@ -267,7 +267,7 @@
     
   <rmec2.label>MechTech Elite</rmec2.label>
   <rmec2.labelShort>mech2</rmec2.labelShort>
-  <!-- suboptimal adjective Umgebaut, Umbau-->
+  <!-- suboptimal adjective Umgebaut, Umbau -->
   <mod2.label>Aufrüstungs</mod2.label>
   <mod2.labelShort>modi2</mod2.labelShort>
   
@@ -429,7 +429,7 @@
 
   <!-- different allowance parameter, same label
   <Mspd4.label>Schwerelos</Mspd4.label>
-  <Mspd4.labelShort>Leicht4</Mspd4.labelShort>-->
+  <Mspd4.labelShort>Leicht4</Mspd4.labelShort> -->
 
   <mov4.label>Dünenjäger</mov4.label>
   <mov4.labelShort>jagd4</mov4.labelShort>
@@ -525,7 +525,7 @@
   
   <rxen3.label>XenoTech Elite</rxen3.label>
   <rxen3.labelShort>alien2</rxen3.labelShort>
-  <!-- replacements: Grundverändert-->
+  <!-- replacements: Grundverändert -->
   <mod5.label>Individuum</mod5.label>
   <mod5.labelShort>modi5</mod5.labelShort>
 

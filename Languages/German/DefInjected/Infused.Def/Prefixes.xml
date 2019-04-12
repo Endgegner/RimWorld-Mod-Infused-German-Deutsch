@@ -1,4 +1,4 @@
-﻿-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- Would appreciate an example to translate the key MarketValue -->
@@ -269,6 +269,5 @@
 
   <Lightwalk.label>Lichtwandler</Lightwalk.label>
   <Lightwalk.labelShort>licht</Lightwalk.labelShort>
-
 
 </LanguageData>
