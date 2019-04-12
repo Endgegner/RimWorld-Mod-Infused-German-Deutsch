@@ -11,7 +11,7 @@
   if the item is neutral, the adjective gets +es
   Wattiert(e), Wattiert(er), Wattiert(es)
   How to emit what gender the item has? No clue
-  Decied mainly use nouns to counter this problem somewhat -->
+  Decided to mainly use nouns to counter this problem -->
   
   <!-- suboptimal adjective: wattiert -->
   <pad0.label>Watte</pad0.label>
@@ -41,7 +41,7 @@
   <skl0.label>Schüler</skl0.label>
   <skl0.labelShort>lern0</skl0.labelShort>
   <!-- suboptimal adjective (Muffend) -->
-  <ani0.label>Betörend</ani0.label>
+  <ani0.label>Betörung</ani0.label>
   <ani0.labelShort>tier0</ani0.labelShort>
   <!-- replacements: Federleicht, Federgewicht -->
   <Aspd0.label>Feder</Aspd0.label>
@@ -195,7 +195,7 @@
   <res2.label>MaschinenWelten-Resistenz</res2.label>
   <res2.labelShort>resi2</res2.labelShort>
   
-  <hot2.label>Wärmekissen</hot2.label>
+  <hot2.label>Wärmeleiter</hot2.label>
   <hot2.labelShort>warm2</hot2.labelShort>
   <!-- suboptimal adjective: Luftdurchlässig -->
   <coo2.label>Luftdurchlässigkeits</coo2.label>
@@ -433,13 +433,13 @@
 
   <mov4.label>Dünenjäger</mov4.label>
   <mov4.labelShort>jagd4</mov4.labelShort>
-  <!-- suboptimal adjective -->
-  <dec4.label>Funkelnd</dec4.label>
+  <!-- suboptimal adjective replacements: Funkeln, Leuchten -->
+  <dec4.label>Funk</dec4.label>
   <dec4.labelShort>sozial4</dec4.labelShort>
   
   <rxen2.label>XenoTech Hybrid</rxen2.label>
   <rxen2.labelShort>alien1</rxen2.labelShort>
-  <!-- suboptimal adjective replacements: Aufgerüstet-->
+  <!-- replacements: Aufgerüstet-->
   <mod4.label>Transformations</mod4.label>
   <mod4.labelShort>modi4</mod4.labelShort>
  
@@ -488,7 +488,7 @@
 
   <axen2.label>XenoTech Elite</axen2.label>
   <axen2.labelShort>alien2</axen2.labelShort>
-  <!-- suboptimal: Glamourös -->
+
   <cmf5.label>Glamour</cmf5.label>
   <cmf5.labelShort>komfort5</cmf5.labelShort>
 
@@ -506,7 +506,7 @@
 
   <mmed5.label>GlitzerWelten-Wundenschließer</mmed5.label>
   <mmed5.labelShort>medi5</mmed5.labelShort>
-  <!-- OK -->
+
   <mwrk5.label>GlitzerWelten-Allzweckwerkzeug</mwrk5.label>
   <mwrk5.labelShort>multi5</mwrk5.labelShort>
   
@@ -525,7 +525,7 @@
   
   <rxen3.label>XenoTech Elite</rxen3.label>
   <rxen3.labelShort>alien2</rxen3.labelShort>
-  <!-- suboptimal adjective replacements: Grundverändert-->
+  <!-- replacements: Grundverändert-->
   <mod5.label>Individuum</mod5.label>
   <mod5.labelShort>modi5</mod5.labelShort>
 
