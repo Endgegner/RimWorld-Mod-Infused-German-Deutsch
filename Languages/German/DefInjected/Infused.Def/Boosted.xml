@@ -13,13 +13,13 @@
   How to emit what gender the item has? No clue
   Decided to mainly use nouns to counter this problem -->
   
-  <!-- suboptimal adjective: wattiert -->
+  <!-- Wattiert, Gepolstert -->
   <pad0.label>Watte</pad0.label>
   <pad0.labelShort>schutz0</pad0.labelShort>
-  <!-- replacements: Gedrungen -->
+  <!-- Gedrungen -->
   <def0.label>Verbund</def0.label>
   <def0.labelShort>panzer0</def0.labelShort>
-  <!-- replacements: Widerstandsfähig -->
+  <!-- Widerstandsfähig -->
   <res0.label>Basis-Resistenz</res0.label>
   <res0.labelShort>resi0</res0.labelShort>
 
@@ -28,22 +28,22 @@
   
   <coo0.label>Basis-Kühlung</coo0.label>
   <coo0.labelShort>kühl0</coo0.labelShort>
-  <!-- suboptimal but OK -->
+
   <sci0.label>Exotik</sci0.label>
   <sci0.labelShort>forsch0</sci0.labelShort>
-  <!-- suboptimal adjective: Bekräftigend -->
+
   <awrk0.label>Bekräftiger</awrk0.label>
   <awrk0.labelShort>arbeit0</awrk0.labelShort>
-  <!-- suboptimal -->
-  <amed0.label>Sauberkeit</amed0.label>
+
+  <amed0.label>Sauberkeits</amed0.label>
   <amed0.labelShort>sauber0</amed0.labelShort>
   
   <skl0.label>Schüler</skl0.label>
   <skl0.labelShort>lern0</skl0.labelShort>
-  <!-- suboptimal adjective (Muffend) -->
-  <ani0.label>Betörung</ani0.label>
+  <!-- Muffend -->
+  <ani0.label>Betörungs</ani0.label>
   <ani0.labelShort>tier0</ani0.labelShort>
-  <!-- replacements: Federleicht, Federgewicht -->
+  <!-- Federleicht, Federgewicht -->
   <Aspd0.label>Feder</Aspd0.label>
   <Aspd0.labelShort>lauf0</Aspd0.labelShort>
   <!-- Brummend, Surrend, Wummernd -->
@@ -67,7 +67,7 @@
 
   <en0.label>Basis-Erweiterung</en0.label>
   <en0.labelShort>nah0</en0.labelShort>
-  <!-- suboptimal adjective: Geriffelt -->
+  <!-- Geriffelt -->
   <cut0.label>Riffel</cut0.label>
   <cut0.labelShort>werk0</cut0.labelShort>
 
@@ -86,23 +86,21 @@
 
   <mov0.label>Waidmanns</mov0.label>
   <mov0.labelShort>jagd0</mov0.labelShort>
-  <!-- suboptimal adjective: Verziert -->
+  <!-- Verziert -->
   <dec0.label>Verzierung</dec0.label>
   <dec0.labelShort>sozial0</dec0.labelShort>
 
   <rmec0.label>Basis-MechTech</rmec0.label>
   <rmec0.labelShort>mech0</rmec0.labelShort>
-  <!-- suboptimal adjective: Angepasst -->
+  <!-- Angepasst -->
   <mod0.label>Anpassungs</mod0.label>
   <mod0.labelShort>modi0</mod0.labelShort>
-  
-  <!-- ######################################## -->
+
   <!-- #############    Tier 1    ############# -->
-  <!-- ######################################## -->
 
   <pad1.label>Daunen</pad1.label>
   <pad1.labelShort>schutz1</pad1.labelShort>
-  <!-- suboptimal adjective: Kesseldichte, Gußeisen -->
+  <!-- Kesseldichte, Gußeisen -->
   <def1.label>Kessel</def1.label>
   <def1.labelShort>panzer1</def1.labelShort>
 
@@ -117,7 +115,7 @@
   
   <sci1.label>Labor</sci1.label>
   <sci1.labelShort>forsch1</sci1.labelShort>
-  <!-- suboptimal -->
+
   <awrk1.label>Drang</awrk1.label>
   <awrk1.labelShort>arbeit1</awrk1.labelShort>
 
@@ -129,7 +127,7 @@
 
   <ani1.label>Dunst</ani1.label>
   <ani1.labelShort>tier1</ani1.labelShort>
-  <!-- replacements: Schwebeflug -->
+
   <Aspd1.label>Schwebe</Aspd1.label>
   <Aspd1.labelShort>lauf1</Aspd1.labelShort>
   
@@ -141,10 +139,10 @@
   
   <cmf1.label>Standard-Komfort</cmf1.label>
   <cmf1.labelShort>komfort1</cmf1.labelShort>
-  <!-- suboptimal adjective: Ausgewogen -->
-  <bal1.label>Ausgewogenheit</bal1.label>
+
+  <bal1.label>Ausgewogenheits</bal1.label>
   <bal1.labelShort>treffer1</bal1.labelShort>
-  <!-- suboptimal adjective -->
+  
   <Mspd1.label>Gewichtslos</Mspd1.label>
   <Mspd1.labelShort>leicht1</Mspd1.labelShort>
   
@@ -153,7 +151,7 @@
 
   <en1.label>Dampfmaschinen</en1.label>
   <en1.labelShort>nah1</en1.labelShort>
-  <!-- suboptimal adjective: Gezackt -->
+  <!-- Gezackt -->
   <cut1.label>Zacken</cut1.label>
   <cut1.labelShort>werk1</cut1.labelShort>
 
@@ -182,9 +180,7 @@
   <mod1.label>Abwandlungs</mod1.label>
   <mod1.labelShort>modi1</mod1.labelShort>
 
-  <!-- ######################################## -->
   <!-- #############    Tier 2    ############# -->
-  <!-- ######################################## -->
 
   <pad2.label>MaschinenWelten-Kettengewebe</pad2.label>
   <pad2.labelShort>schutz2</pad2.labelShort>
@@ -197,7 +193,7 @@
   
   <hot2.label>Wärmeleiter</hot2.label>
   <hot2.labelShort>warm2</hot2.labelShort>
-  <!-- suboptimal adjective: Luftdurchlässig -->
+
   <coo2.label>Luftdurchlässigkeits</coo2.label>
   <coo2.labelShort>kühl2</coo2.labelShort>
 
@@ -206,7 +202,7 @@
   
   <awrk2.label>Werkzeugfächer</awrk2.label>
   <awrk2.labelShort>arbeit2</awrk2.labelShort>
-  <!-- suboptimal adjective: Steril -->
+
   <amed2.label>Sterilitäts</amed2.label>
   <amed2.labelShort>sauber2</amed2.labelShort>
    <!-- ani2: double def names Smelly Mid Tech twice line 2149 - 2213 (IndustrialBoosted.xml) - Acedemic MidTech seems not to exist or is overwritten
@@ -230,10 +226,10 @@
   
   <cmf2.label>Buisness-Komfort</cmf2.label>
   <cmf2.labelShort>komfort2</cmf2.labelShort>
-  <!-- suboptimal adjective -->
-  <bal2.label>Ausbalanciert</bal2.label>
+  <!-- suboptimal adjective Ausbalanciert -->
+  <bal2.label>Ausgleich </bal2.label>
   <bal2.labelShort>treffer2</bal2.labelShort>
-  <!-- OK -->
+  
   <Mspd2.label>Wirbel</Mspd2.label>
   <Mspd2.labelShort>leicht2</Mspd2.labelShort>
 
@@ -261,23 +257,21 @@
     
   <mov2.label>Steppenjäger</mov2.label>
   <mov2.labelShort>jagd2</mov2.labelShort>
-  <!-- suboptimal adjective: Dekorativ -->
+  <!-- Dekorativ -->
   <dec2.label>Dekor</dec2.label>
   <dec2.labelShort>sozial2</dec2.labelShort>
     
   <rmec2.label>MechTech Elite</rmec2.label>
   <rmec2.labelShort>mech2</rmec2.labelShort>
-  <!-- suboptimal adjective Umgebaut, Umbau -->
+  <!-- Umgebaut, Umbau -->
   <mod2.label>Aufrüstungs</mod2.label>
   <mod2.labelShort>modi2</mod2.labelShort>
-  
-  <!-- ######################################## -->
+
   <!-- #############    Tier 3    ############# -->
-  <!-- ######################################## -->
 
   <pad3.label>Schaumpolster</pad3.label>
   <pad3.labelShort>schutz3</pad3.labelShort>
-  <!-- replacements: Ableiter -->
+  <!-- Ableiter -->
   <def3.label>Ableitungs</def3.label>
   <def3.labelShort>panzer3</def3.labelShort>
 
@@ -286,7 +280,7 @@
   
   <hot3.label>StadtWelten-Frostschutz</hot3.label>
   <hot3.labelShort>warm3</hot3.labelShort>
-  <!-- suboptimal adjective -->
+
   <coo3.label>Atmungsaktiv</coo3.label>
   <coo3.labelShort>kühl3</coo3.labelShort>
   
@@ -334,7 +328,7 @@
 
   <mmed3.label>Chirurgie</mmed3.label>
   <mmed3.labelShort>medi3</mmed3.labelShort>
-  <!-- suboptimal -->
+
   <mwrk3.label>Programm. StadtWelten</mwrk3.label>
   <mwrk3.labelShort>multi3</mwrk3.labelShort>
   
@@ -347,26 +341,24 @@
 
   <mov3.label>Tundrenjäger</mov3.label>
   <mov3.labelShort>jagd3</mov3.labelShort>
-  <!-- suboptimal adjective: Schillernd -->
+
   <dec3.label>Schillern</dec3.label>
   <dec3.labelShort>sozial3</dec3.labelShort>
   
   <rxen1.label>Basis-XenoTech</rxen1.label>
   <rxen1.labelShort>alien0</rxen1.labelShort>
-  <!-- suboptimal adjective: Zugeschnitten -->
+  <!-- Zugeschnitten -->
   <mod3.label>Struktur-Zuschnitt</mod3.label>
   <mod3.labelShort>modi3</mod3.labelShort>
-  
-  <!-- ######################################## -->
+
   <!-- #############    Tier 4    ############# -->
-  <!-- ######################################## -->
 
   <pad4.label>OrbitalWelten-Absorption</pad4.label>
   <pad4.labelShort>schutz4</pad4.labelShort>
   
   <def4.label>OrbitalWelten-Kompensator</def4.label>
   <def4.labelShort>panzer4</def4.labelShort>
-  <!-- suboptimal adjective doesnt work with random example: Staubmantel -->
+
   <res4.label>Feuerfeste</res4.label>
   <res4.labelShort>resi4</res4.labelShort>
   
@@ -414,13 +406,13 @@
 
   <en4.label>Kollisions</en4.label>
   <en4.labelShort>nah4</en4.labelShort>
-  <!-- suboptimal adjective replacements: Verzahnt -->
+  <!-- Verzahnt -->
   <cut4.label>Vollverzahnung</cut4.label>
   <cut4.labelShort>werk4</cut4.labelShort>
 
   <mmed4.label>ObritalWelten-Medizintechnik</mmed4.label>
   <mmed4.labelShort>medi4</mmed4.labelShort>
-  <!-- suboptimal -->
+
   <mwrk4.label>Programm. ObritalWelten</mwrk4.label>
   <mwrk4.labelShort>multi4</mwrk4.labelShort>
 
@@ -443,9 +435,7 @@
   <mod4.label>Transformations</mod4.label>
   <mod4.labelShort>modi4</mod4.labelShort>
  
-  <!-- ######################################## -->
   <!-- #############    Tier 5    ############# -->
-  <!-- ######################################## -->
 
   <pad5.label>Glitzerwelten-Neutralisator</pad5.label>
   <pad5.labelShort>schutz5</pad5.labelShort>
@@ -519,21 +509,18 @@
   
   <mov5.label>Predator</mov5.label>
   <mov5.labelShort>jagd5</mov5.labelShort>
-  <!-- OK -->
+
   <dec5.label>Schimmer</dec5.label>
   <dec5.labelShort>sozial5</dec5.labelShort>
   
   <rxen3.label>XenoTech Elite</rxen3.label>
   <rxen3.labelShort>alien2</rxen3.labelShort>
-  <!-- replacements: Grundverändert -->
+  <!-- Grundverändert -->
   <mod5.label>Individuum</mod5.label>
   <mod5.labelShort>modi5</mod5.labelShort>
 
-  <!-- ######################################## -->
   <!-- ############# StoryTeller  ############# -->
-  <!-- ######################################## -->
-  
-  <!-- Are these actually active? didnt see them yet -->
+
   <rand.labelShort>randy</rand.labelShort>
   <cass.labelShort>cassie</cass.labelShort>
   <phoe.labelShort>phoebe</phoe.labelShort>

@@ -1,8 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- Would appreciate an example to translate the key MarketValue -->
-
   <!-- female adjective, all shotguns are female tho -->
   <SawedOff.label>Abgesägte</SawedOff.label>
   <SawedOff.labelShort>kurz</SawedOff.labelShort>
@@ -19,9 +17,7 @@
   <SawedOff_Epic.label>Abgesägte</SawedOff_Epic.label>
   <SawedOff_Epic.labelShort>kurz</SawedOff_Epic.labelShort>
   
-  <!-- ######################################## -->
   <!-- #############    Tier 0    ############# -->
-  <!-- ######################################## -->
 
   <Light.label>Leichtgewicht</Light.label>
   <Light.labelShort>leicht</Light.labelShort>
@@ -49,12 +45,10 @@
 
   <Tough.label>Belastbarkeits</Tough.label>
   <Tough.labelShort>zäh</Tough.labelShort>
-  
-  <!-- ######################################## -->
-  <!-- #############    Tier 1    ############# -->
-  <!-- ######################################## -->
 
-  <!-- suboptimal (replacements: gestickt, bestickt, robust, strapazierfähig, stramm, derb) -->
+  <!-- #############    Tier 1    ############# -->
+
+  <!-- Gestickt, Besetzt, Bestickt, Robust, Strapazierfähig, Stramm, Derb -->
   <Studded.label>Robustheits</Studded.label>
   <Studded.labelShort>rob</Studded.labelShort>
 
@@ -69,11 +63,11 @@
 
   <Attractive.label>Attraktivitäts</Attractive.label>
   <Attractive.labelShort>attr</Attractive.labelShort>
-  <!-- suboptimal adjective (replacements: Unnachgiebigkeit, fest) -->
-  <Hard.label>Hart</Hard.label>
+  <!-- Unnachgiebigkeits, Hart, Fest -->
+  <Hard.label>Härte</Hard.label>
   <Hard.labelShort>hart</Hard.labelShort>
-
-  <Soft.label>Weich</Soft.label>
+  <!-- Weich -->
+  <Soft.label>Samt</Soft.label>
   <Soft.labelShort>weich</Soft.labelShort>
 
   <Mercenary.label>Söldner</Mercenary.label>
@@ -100,10 +94,10 @@
 
   <Siege.label>Belagerungs</Siege.label>
   <Siege.labelShort>klamm</Siege.labelShort>
-  <!-- suboptimal adjective (replacements: Genauigkeit, Präzision) -->
+  <!-- Genauigkeit, Präzision -->
   <Precise.label>Exaktheits</Precise.label>
   <Precise.labelShort>genau</Precise.labelShort>
-  <!-- suboptimal adjective -->
+
   <Clean.label>Rückstandsfrei</Clean.label>
   <Clean.labelShort>sauber</Clean.labelShort>
 
@@ -114,32 +108,32 @@
   <AssaultingRange.labelShort>sturm</AssaultingRange.labelShort>
 
   <Healing.label>Heiler</Healing.label>
-  <Healing.labelShort>heiler</Healing.labelShort>
+  <Healing.labelShort>heil</Healing.labelShort>
 
   <Weaving.label>Weber</Weaving.label>
   <Weaving.labelShort>weber</Weaving.labelShort>
-
+  <!-- Großwild, Wild, Waidmanns -->
   <Hunting.label>Jäger</Hunting.label>
   <Hunting.labelShort>jagd</Hunting.labelShort>
 
   <Cooking.label>Küchenfee</Cooking.label>
   <Cooking.labelShort>koch</Cooking.labelShort>
-  <!-- replacements: Grubenarbeiter -->
+  <!-- Grubenarbeiter -->
   <Mining.label>Bergmann</Mining.label>
   <Mining.labelShort>grab</Mining.labelShort>
 
   <Establishing.label>Establishment</Establishing.label>
   <Establishing.labelShort>werk</Establishing.labelShort>
-  <!-- replacements: Farmer -->
+  <!-- Farmer -->
   <Farming.label>Bauer</Farming.label>
   <Farming.labelShort>farm</Farming.labelShort>
-  <!-- replacements: Schnitzer -->
+  <!-- Schnitzer -->
   <Stonevein.label>Bildhauer</Stonevein.label>
   <Stonevein.labelShort>bild</Stonevein.labelShort>
 
   <Metalvein.label>Metallurgen</Metalvein.label>
   <Metalvein.labelShort>meta</Metalvein.labelShort>
-  <!-- replacements: Behutsamkeits -->
+  <!-- Behutsamkeits -->
   <Taming.label>Sanftmut</Taming.label>
   <Taming.labelShort>sanft</Taming.labelShort>
 
@@ -154,10 +148,10 @@
 
   <Blocking.label>Abblocker</Blocking.label>
   <Blocking.labelShort>block</Blocking.labelShort>
-  <!-- replacements: Abdecker -->
+  <!-- Abdecker -->
   <Protecting.label>Schild</Protecting.label>
   <Protecting.labelShort>schild</Protecting.labelShort>
-  <!-- replacements: Schlenker, Schweif, Abschweifer Schmierfett -->
+  <!-- Schlenker, Schweif, Abschweifer Schmierfett -->
   <Swerving.label>Ausbrecher</Swerving.label>
   <Swerving.labelShort>brech</Swerving.labelShort>
 
@@ -166,20 +160,18 @@
 
   <Chilling.label>Gefrierpunkt</Chilling.label>
   <Chilling.labelShort>kalt</Chilling.labelShort>
-  <!-- replacements: Ummantelung, Überzug, Beschichtung, Lackierung -->
+  <!-- Ummantelung, Überzug, Beschichtung, Lackierung -->
   <Coated.label>Zusatzschicht</Coated.label>
   <Coated.labelShort>Lage</Coated.labelShort>
-  
-  <!-- ######################################## -->
+
   <!-- #############    Tier 3    ############# -->
-  <!-- ######################################## -->
 
   <Homing.label>Zielsucher</Homing.label>
   <Homing.labelShort>ziel</Homing.labelShort>
 
   <HomingRange.label>Zielflug</HomingRange.label>
   <HomingRange.labelShort>ziel</HomingRange.labelShort>
-  <!-- replacements: rasant -->
+  <!-- rasant -->
   <Swift.label>Rapid</Swift.label>
   <Swift.labelShort>rapid</Swift.labelShort>
 
@@ -188,27 +180,27 @@
 
   <Ancient.label>Ahnen</Ancient.label>
   <Ancient.labelShort>ahnen</Ancient.labelShort>
-  <!-- suboptimal adjective but OK (replacements: Antik) -->
+  <!-- Antik -->
   <AncientRange.label>Vorfahren</AncientRange.label>
   <AncientRange.labelShort>ahnen</AncientRange.labelShort>
 
   <AncientApparel.label>Vorväter</AncientApparel.label>
   <AncientApparel.labelShort>ahnen</AncientApparel.labelShort>
-  <!-- replacements: Beherrschend, Körperbeherrschung -->
+  <!-- Beherrschend, Körperbeherrschung -->
   <Controlling.label>Körpersprache</Controlling.label>
   <Controlling.labelShort>sprach</Controlling.labelShort>
-  <!-- replacements: Schmuggler -->
+  <!-- Schmuggler -->
   <Fel.label>Schmugglerware</Fel.label>
   <Fel.labelShort>pakt</Fel.labelShort>
 
   <FelRange.label>Teufelspakt</FelRange.label>
   <FelRange.labelShort>pakt</FelRange.labelShort>
-  <!-- replacements: Kommunikations, Vermittler -->
+  <!-- Kommunikations, Vermittler -->
   <Communicating.label>Korrespondenz</Communicating.label>
-  <Communicating.labelShort>kommu</Communicating.labelShort>
+  <Communicating.labelShort>komm</Communicating.labelShort>
 
   <Absorbing.label>Absorbierer</Absorbing.label>
-  <Absorbing.labelShort>absorb</Absorbing.labelShort>
+  <Absorbing.labelShort>abso</Absorbing.labelShort>
 
   <Burning.label>Glut</Burning.label>
   <Burning.labelShort>brenn</Burning.labelShort>
@@ -219,28 +211,27 @@
   <Modulating.label>Feuer</Modulating.label>
   <Modulating.labelShort>feuer</Modulating.labelShort>
   
-  <!-- ######################################## -->
   <!-- #############    Tier 4    ############# -->
-  <!-- ######################################## -->
-  <!-- replacements: Vernichter, Auslöscher -->
+
+  <!-- Vernichter, Auslöscher, Destruktiv -->
   <Destructive.label>Zerstörer</Destructive.label>
-  <Destructive.labelShort>destrukt</Destructive.labelShort>
-  <!-- replacements: Amplifikator, Spezial, Anlegen, Anvisieren -->
+  <Destructive.labelShort>destr</Destructive.labelShort>
+  <!-- Amplifikator, Spezial, Anlegen, Anvisieren -->
   <Amplified.label>Verstärker</Amplified.label>
   <Amplified.labelShort>stark</Amplified.labelShort>
-  <!-- replacements: Aufzeichner, Schreiber, Schriftgelehrter, Rekorder -->
+  <!-- Aufzeichner, Schreiber, Schriftgelehrter, Rekorder -->
   <Scribing.label>Sekretär</Scribing.label>
   <Scribing.labelShort>auto</Scribing.labelShort>
-  <!-- replacements: Unvergänglich, Zeitlos, Ewiger Schutz, Absicherung, Immerwährend -->
+  <!-- Unvergänglich, Zeitlos, Ewiger Schutz, Absicherung, Immerwährend -->
   <Everprotecting.label>Zweite Haut</Everprotecting.label>
-  <Everprotecting.labelShort>2haut</Everprotecting.labelShort>
+  <Everprotecting.labelShort>haut</Everprotecting.labelShort>
 
   <Deflecting.label>Deflektor</Deflecting.label>
   <Deflecting.labelShort>lenk</Deflecting.labelShort>
 
   <Gravitational.label>Schwerkraft</Gravitational.label>
   <Gravitational.labelShort>gravi</Gravitational.labelShort>
-  <!-- replacements: Variabel, fluktuierend -->
+  <!-- Variabel, Fluktuierend -->
   <Fluctuating.label>Fluktuations</Fluctuating.label>
   <Fluctuating.labelShort>flux</Fluctuating.labelShort>
   
@@ -253,21 +244,19 @@
   <Influential.label>Bannkreis</Influential.label>
   <Influential.labelShort>bann</Influential.labelShort>
 
-  <!-- ######################################## -->
   <!-- #############    Tier 5    ############# -->
-  <!-- ######################################## -->
 
   <Invulnerable.label>Unverwundbarkeits</Invulnerable.label>
   <Invulnerable.labelShort>unv</Invulnerable.labelShort>
 
-  <!-- replacements: Imposant, Stirnbieter, Beuger, Kurven, Kontraktion -->
+  <!-- Imposant, Stirnbieter, Beuger, Kurven, Kontraktion -->
   <Flexing.label>Konzept</Flexing.label>
   <Flexing.labelShort>kon</Flexing.labelShort>
-  <!-- replacements: Aufgedreht, Direktaufprall -->
+  <!-- Aufgedreht, Direktaufprall -->
   <Hypercharged.label>Hyperdrall</Hypercharged.label>
-  <Hypercharged.labelShort>hyper</Hypercharged.labelShort>
+  <Hypercharged.labelShort>hype</Hypercharged.labelShort>
 
   <Lightwalk.label>Lichtwandler</Lightwalk.label>
-  <Lightwalk.labelShort>licht</Lightwalk.labelShort>
+  <Lightwalk.labelShort>lich</Lightwalk.labelShort>
 
 </LanguageData>
